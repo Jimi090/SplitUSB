@@ -22,6 +22,6 @@ Checkout file: BOM.xml
 ![BOM1](/images/BOM1.png)
 
 ### Schematic and PCB images
-![Schematic](/images/schematic.png)
+![Schematic](/images/Schematic.png)
 ![TopPCB](/images/TopPCB.png)
 ![BottomPCB](/images/BottomPCB.png)
