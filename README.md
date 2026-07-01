@@ -29,3 +29,5 @@ Checkout file: BOM.csv
 ![Schematic](/images/Schematic.png)
 ![TopPCB](/images/TopPCB.png)
 ![BottomPCB](/images/BottomPCB.png)
+
+### See ya
