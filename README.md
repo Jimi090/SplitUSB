@@ -9,6 +9,9 @@
 ![Top3D](/images/Top3D.png)
 ![Bottom3D](/images/Bottom3D.png)
 
+### Files
+Every file regarding hardware is in /hardware/ directory.
+
 ### Why I created this:
 1. I need usb hub. My laptop has only 1 USB-C port ):
 2. I wanted to learn how to make PCBs (it's my first one)
@@ -21,9 +24,7 @@
 - Dark souls theme!
 
 ### BOM
-Checkout file: BOM.csv
-
-![BOM1](/images/BOM1.png)
+Checkout file: [BOM](/hardware/BOM.csv) (github can't open it, so download it and open in LibreOffice/Excel)
 
 ### Schematic and PCB images
 ![Schematic](/images/Schematic.png)
