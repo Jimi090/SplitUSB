@@ -1,8 +1,8 @@
 # SplitUSB
 **SplitUSB is a USB hub with Dark Souls theme!**
 ### Real thing!
-![RealTop](/images/image0.jpeg)
-![RealBottom](/images/image1.jpeg)
+![RealTop](/images/RealTop.jpeg)
+![RealBottom](/images/RealBottom.jpeg)
 
 ### Render
 
